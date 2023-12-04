@@ -20,18 +20,18 @@ A good use case of this project is migrating the on-prem database to Cloud. I wi
 
 ## Architecture diagram
 
-![](./image/architecture.jpg)
+![](./img/architecture.jpg)
 
 ## Overview
 
 ### Resource group
-![](./image/resource-group.png)
+![](./img/resource-group.png)
 
 ### Database Schema
-![](./image/database-schema.jpg)
+![](./img/database-schema.jpg)
 
 ### Building report
-![](./image/visualize-power-bi.png)
+![](./img/visualize-power-bi.png)
 
 ### Data Lake Architecture
 The data lake architecture consists of three layers:
@@ -77,7 +77,7 @@ What you need to run the project:
 
 - I have play around a lot in this project and the cost is approximate about $15.
 
-![](./image/cost.png)
+![](./img/cost.png)
  [Key Vault Role](https://stackoverflow.com/questions/69971341/unable-to-create-secrets-in-azure-key-vault-if-using-azure-role-based-access-con)
 
 [Access role to storage account](https://learn.microsoft.com/en-us/answers/questions/779065/error-this-request-is-not-authorized-to-perform-th)
