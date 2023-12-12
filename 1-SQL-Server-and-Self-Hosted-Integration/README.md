@@ -8,7 +8,6 @@
   * [Restore Database](#restore-database)
   * [Create credential](#create-credential)
   * [Store Secrets](#store-secrets)
-* [Contact](#contact)
 
 ## Overview
 ### Restore Database
@@ -30,7 +29,3 @@ Create your Key Vault and choose the Resource Group we have created for this pro
 
 Well done, now you have set up the enviroment for our project! Continue I'm going to show you how to connect from SSMS to Azure, and load the data from 
 
-
-## Contact
-Please feel free to contact me if you have any questions.
-<a href="https://ducanh0285@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail--v2.png" alt="ducanh0285@gmail.com" height="30" width="40" /></a><a href="https://www.facebook.com/ducanh.pp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="1" height="30" width="40" /></a><a href="https://twitter.com/Ducann02Nguyen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="1" height="30" width="40" /></a><a href="https://www.linkedin.com/in/ducanhnt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="1" height="30" width="40" /></a>
