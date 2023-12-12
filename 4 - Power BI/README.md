@@ -6,8 +6,6 @@ Power BI is a unified, scalable platform for self-service and enterprise busines
 * [Overview](#overview)
   * [Power BI desktop](#pwbi-desktop)
 * [Congrats!](#congrats)
-* [Demo](#demo)
-* [Contact](#contact)
 
 ## Overview
 ### Power BI desktop
@@ -46,11 +44,3 @@ You have completed this project! and If you're considering broadening the scope 
 
 While these steps may seem ambitious, they provide a remarkable pathway for continuous learning and growth in this domain.
 And one last thing well done, and best regards! If you encounter any issue, remember to contact me with the info below.
-
-## Demo
-- Click the link to the Demo:  
-  [Link](https://www.youtube.com/playlist?list=PLId1IInL1tur3w-5b9-SY1AvyH8lZw7IA)
-
-## Contact
-Please feel free to contact me if you have any questions.
-<a href="https://ducanh0285@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail--v2.png" alt="ducanh0285@gmail.com" height="30" width="40" /></a><a href="https://www.facebook.com/ducanh.pp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="1" height="30" width="40" /></a><a href="https://twitter.com/Ducann02Nguyen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="1" height="30" width="40" /></a><a href="https://www.linkedin.com/in/ducanhnt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="1" height="30" width="40" /></a>
