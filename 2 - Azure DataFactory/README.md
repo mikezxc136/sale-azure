@@ -118,10 +118,5 @@ In the setting of the two notebooks remember to browse to the file we have impor
 ![Alt text](image/setting-silver-to-gold-databricks.png)
 
 And now the pipeline is already 2/3 of the path! What would be next you wonder? We gonna take the data from gold layer which a final cleaneast form of data to Synapse Analystic, On Cloud SQL Database, and use Power BI to connect and visualize it!!
-## Demo
-- Click the link to the Demo:  
-  [Link](https://www.youtube.com/watch?v=xLFjE2WJaoM)
 
-## Contact
-Please feel free to contact me if you have any questions.
-<a href="https://ducanh0285@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail--v2.png" alt="ducanh0285@gmail.com" height="30" width="40" /></a><a href="https://www.facebook.com/ducanh.pp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="1" height="30" width="40" /></a><a href="https://twitter.com/Ducann02Nguyen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="1" height="30" width="40" /></a><a href="https://www.linkedin.com/in/ducanhnt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="1" height="30" width="40" /></a>
+
