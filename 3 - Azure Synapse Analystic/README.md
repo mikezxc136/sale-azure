@@ -9,8 +9,6 @@ Azure Synapse Analytics is an enterprise analytics service that accelerates time
   * [SQL Pools](#sql-pool)
   * [Database On-Cloud](#db-oncloud)
   * [Pipeline](#pipeline)
-* [Demo](#demo)
-* [Contact](#contact)
 
 ## Overview
 ### Workspace
@@ -69,10 +67,3 @@ Remember to create new Stored procedure parameters, so it can take the item from
 
 Voila! You have been through 90% of the project, check out the demo and contact me if you counter any issues! Next, we gonna use PowerBI to visualize our database.
 
-## Demo
-- Click the link to the Demo:  
-  [Link](https://www.youtube.com/playlist?list=PLId1IInL1tur3w-5b9-SY1AvyH8lZw7IA)
-
-## Contact
-Please feel free to contact me if you have any questions.
-<a href="https://ducanh0285@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail--v2.png" alt="ducanh0285@gmail.com" height="30" width="40" /></a><a href="https://www.facebook.com/ducanh.pp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="1" height="30" width="40" /></a><a href="https://twitter.com/Ducann02Nguyen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="1" height="30" width="40" /></a><a href="https://www.linkedin.com/in/ducanhnt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="1" height="30" width="40" /></a>
