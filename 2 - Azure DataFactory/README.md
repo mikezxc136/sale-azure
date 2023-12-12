@@ -29,8 +29,6 @@ Because of these advantages, Databricks recommends using Delta format to store y
   * [Copy each table to Bronze layer](#copy-to-bronze)
   * [Transfrom from Bronze to Silver layer](#transform-1)
   * [Transfrom from Silver to Gold layer](#transform-2)
-* [Demo](#demo)
-* [Contact](#contact)
 
 ## Overview
 ### Integration Runtime
