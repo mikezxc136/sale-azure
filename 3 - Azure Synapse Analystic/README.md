@@ -65,5 +65,5 @@ After you found it, paste it to the "Fully qualified domain name" text box. Choo
 Remember to create new Stored procedure parameters, so it can take the item from the previous activity which is getMetadata and give us table name.
 ![Alt text](image/sql-serverless-endpoint.png)
 
-Voila! You have been through 90% of the project, check out the demo and contact me if you counter any issues! Next, we gonna use PowerBI to visualize our database.
+Voila! You have been through 90% of the project. Next, we gonna use PowerBI to visualize our database.
 
